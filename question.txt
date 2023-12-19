@@ -1,0 +1,16 @@
+Coding Challenge: Build a responsive webpage.
+
+Imagine you are building a weather application. Your task is to create a responsive webpage that displays the current weather information. The page should have the following features:
+
+Weather Information:
+
+Display the current temperature, weather condition, and location.
+Background Image:
+
+Change the background image of the component based on the weather condition. For example, use a sunny background for clear weather, a rainy background for rainy weather, etc.
+Styling:
+
+Implement a clean and visually appealing design using HTML and CSS.Ensure that the component looks good on both desktop and mobile devices.
+API Integration(Not necessary, but would be great if you can):
+
+Fetch weather data from a public weather API (e.g., OpenWeatherMap). Use states to display errors, loading, etc if you are using any frame works.
