@@ -5,6 +5,4 @@ Still adding some changes.
 with dynamic background also includes error page
 
 <br>
-![Alt text]([https://github.com/kaneeshk24/weather-resp/blob/main/page1.PNG](https://github.com/kaneeshk24/weather-resp/blob/main/page1.PNG)https://github.com/kaneeshk24/weather-resp/blob/main/page1.PNG)
-
 
