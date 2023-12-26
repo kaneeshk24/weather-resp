@@ -1,2 +1,3 @@
 # weather-resp<br>
-I am yet to make a responsive weather app 
+responsive weather page using Openweather api with city name as attribute<br>
+Still adding some changes.
